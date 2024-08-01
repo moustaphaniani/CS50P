@@ -5,3 +5,4 @@ An introduction to programming using a language called Python. Learn how to read
 
 Whereas CS50x itself focuses on computer science more generally as well as programming with C, Python, SQL, and JavaScript, this course, aka CS50P, is entirely focused on programming with Python. You can take CS50P before CS50x, during CS50x, or after CS50x. But for an introduction to computer science itself, you should still take CS50x!
 
+https://youtu.be/OvKCESUCWII
